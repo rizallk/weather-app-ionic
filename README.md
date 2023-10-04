@@ -1,4 +1,4 @@
-# Tugas B01. Aplikasi pengecekan cuaca berbasis Ionic
+# Tugas A02. Aplikasi pengecekan cuaca berbasis Ionic
 
 Repositori ini dibuat untuk memenuhi persyaratan dari Tugas pembuatan Aplikasi Mobile berbasis Ionic pada Mata Kuliah Pilihan Pengembangan Aplikasi Mobile. </br>
 
